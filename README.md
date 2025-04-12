@@ -14,22 +14,18 @@ This project is a multi-step form built with **Next.js (App Router)**, **React H
 ## Installation & Running Locally
 
 1. Clone the Repository
-
-   git clone https://github.com/your-username/multi-step-form.git
-   cd multi-step-form
+   **git clone https://github.com/your-username/multi-step-form.git**
+   **cd multi-step-form**
 
 2. Install Dependencies
-
-   npm run dev
+   **npm run dev**
    or
-   yarn dev
+   **yarn dev**
 
 3. Run the Dev Server
-
-   npm run dev
+   **npm run dev**
    or
-   yarn dev
+   **yarn dev**
 
 4. Open your browser and go to:
-
-   http://localhost:3000
+  **http://localhost:3000**
