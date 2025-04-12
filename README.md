@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Multi Step Form
 
-## Getting Started
+This project is a multi-step form built with **Next.js (App Router)**, **React Hook Form**, and **Zod**, styled using **Tailwind CSS** and **DaisyUI**. It collects user details across 3 steps and includes validation, state management, and theme toggling (light/dark).
 
-First, run the development server:
+## Tech Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Framework**: Next.js (App Router)
+- **Form Handling**: React Hook Form
+- **Validation**: Zod
+- **Styling**: Tailwind CSS + DaisyUI
+- **Theme Support**: Light/Dark Mode
+- **Optional**: React Query / RTK Query (for API simulation)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Installation & Running Locally
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+1. Clone the Repository
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+   git clone https://github.com/your-username/multi-step-form.git
+   cd multi-step-form
 
-## Learn More
+2. Install Dependencies
 
-To learn more about Next.js, take a look at the following resources:
+   npm run dev
+   or
+   yarn dev
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. Run the Dev Server
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+   npm run dev
+   or
+   yarn dev
 
-## Deploy on Vercel
+4. Open your browser and go to:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   http://localhost:3000
