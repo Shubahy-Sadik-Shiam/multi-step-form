@@ -1,5 +1,7 @@
 # Multi Step Form
 
+## Live Demo: **https://multi-step-form-ten-gilt.vercel.app/**
+
 This project is a multi-step form built with **Next.js (App Router)**, **React Hook Form**, and **Zod**, styled using **Tailwind CSS** and **DaisyUI**. It collects user details across 3 steps and includes validation, state management, and theme toggling (light/dark).
 
 ## Tech Stack
